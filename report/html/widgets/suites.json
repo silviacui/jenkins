@@ -4,12 +4,12 @@
     "uid" : "e75fa132844168e6db2f854582133fde",
     "name" : "scripts.test_jenkins",
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 2,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     }
   } ]
 }

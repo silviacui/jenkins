@@ -1,0 +1,52 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1530492683098" stop="1530492683165">
+  <name>scripts.test_jenkins</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1530492683098" status="passed" stop="1530492683102">
+      <name>TestJenkins.test_login1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7804-MainThread"/>
+        <label name="host" value="USER-20151213ZE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1530492683103" status="passed" stop="1530492683104">
+      <name>TestJenkins.test_login2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7804-MainThread"/>
+        <label name="host" value="USER-20151213ZE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1530492683105" status="failed" stop="1530492683165">
+      <name>TestJenkins.test_login3</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_jenkins.TestJenkins object at 0x000000000390AFD0&gt;
+
+    def test_login3(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_jenkins.py:11: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7804-MainThread"/>
+        <label name="host" value="USER-20151213ZE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

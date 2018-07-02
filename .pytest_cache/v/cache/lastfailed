@@ -1,3 +1,4 @@
 {
-  "scripts/test_jenkins.py::TestJenkins": true
+  "scripts/test_jenkins.py::TestJenkins::()": true,
+  "scripts/test_jenkins.py::TestJenkins::()::test_login3": true
 }

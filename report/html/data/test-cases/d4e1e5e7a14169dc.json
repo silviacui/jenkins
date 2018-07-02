@@ -1,12 +1,12 @@
 {
-  "uid" : "da83180a6e7cbb22",
-  "name" : "TestJenkins.test_login1",
-  "fullName" : "scripts.test_jenkins.TestJenkins.test_login1",
-  "historyId" : "2a6cccf49b43f65532aca651f90248c7",
+  "uid" : "d4e1e5e7a14169dc",
+  "name" : "TestJenkins.test_login2",
+  "fullName" : "scripts.test_jenkins.TestJenkins.test_login2",
+  "historyId" : "f8b8ca15bb63fffeda3b1354f47fb569",
   "time" : {
-    "start" : 1530453229579,
-    "stop" : 1530453229583,
-    "duration" : 4
+    "start" : 1530492683103,
+    "stop" : 1530492683104,
+    "duration" : 1
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -28,7 +28,7 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "2140-MainThread"
+    "value" : "7804-MainThread"
   }, {
     "name" : "suite",
     "value" : "scripts.test_jenkins"
@@ -37,7 +37,7 @@
     "value" : "scripts.test_jenkins"
   }, {
     "name" : "testMethod",
-    "value" : "TestJenkins.test_login1"
+    "value" : "TestJenkins.test_login2"
   }, {
     "name" : "package",
     "value" : "scripts.test_jenkins"
@@ -55,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "da83180a6e7cbb22.json",
+  "source" : "d4e1e5e7a14169dc.json",
   "parameterValues" : [ ]
 }

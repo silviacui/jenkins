@@ -4,33 +4,45 @@
   "children" : [ {
     "name" : "USER-20151213ZE",
     "children" : [ {
-      "name" : "2140-MainThread",
+      "name" : "7804-MainThread",
       "children" : [ {
-        "name" : "TestJenkins.test_login1",
-        "uid" : "da83180a6e7cbb22",
-        "parentUid" : "41997da8aa29bba0c12a62b0e7ef53e1",
-        "status" : "passed",
-        "time" : {
-          "start" : 1530453229579,
-          "stop" : 1530453229583,
-          "duration" : 4
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "TestJenkins.test_login2",
-        "uid" : "fefb80d1e647a7de",
-        "parentUid" : "41997da8aa29bba0c12a62b0e7ef53e1",
+        "uid" : "d4e1e5e7a14169dc",
+        "parentUid" : "758037bf821ce82169c141640f95a762",
         "status" : "passed",
         "time" : {
-          "start" : 1530453229584,
-          "stop" : 1530453229585,
+          "start" : 1530492683103,
+          "stop" : 1530492683104,
           "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ ]
+      }, {
+        "name" : "TestJenkins.test_login3",
+        "uid" : "804723699779a541",
+        "parentUid" : "758037bf821ce82169c141640f95a762",
+        "status" : "failed",
+        "time" : {
+          "start" : 1530492683105,
+          "stop" : 1530492683165,
+          "duration" : 60
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestJenkins.test_login1",
+        "uid" : "d24510a4472a2398",
+        "parentUid" : "758037bf821ce82169c141640f95a762",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530492683098,
+          "stop" : 1530492683102,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
       } ],
-      "uid" : "41997da8aa29bba0c12a62b0e7ef53e1"
+      "uid" : "758037bf821ce82169c141640f95a762"
     } ],
     "uid" : "c96f1ec7cc54cd75e59eb1132f7903b1"
   } ]

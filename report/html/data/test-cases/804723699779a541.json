@@ -1,0 +1,66 @@
+{
+  "uid" : "804723699779a541",
+  "name" : "TestJenkins.test_login3",
+  "fullName" : "scripts.test_jenkins.TestJenkins.test_login3",
+  "historyId" : "780995987730af8469db84d4c6ce0950",
+  "time" : {
+    "start" : 1530492683105,
+    "stop" : 1530492683165,
+    "duration" : 60
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_jenkins.TestJenkins object at 0x000000000390AFD0>\n\n    def test_login3(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_jenkins.py:11: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "USER-20151213ZE"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7804-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_jenkins"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_jenkins"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestJenkins.test_login3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_jenkins"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "804723699779a541.json",
+  "parameterValues" : [ ]
+}
