@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_jenkins",
+    "children" : [ {
+      "name" : "TestJenkins.test_login1",
+      "uid" : "da83180a6e7cbb22",
+      "parentUid" : "f60bf29882ee57aac2549cf5d4be63fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1530453229579,
+        "stop" : 1530453229583,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestJenkins.test_login2",
+      "uid" : "fefb80d1e647a7de",
+      "parentUid" : "f60bf29882ee57aac2549cf5d4be63fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1530453229584,
+        "stop" : 1530453229585,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scripts.test_jenkins"
+  } ]
+}

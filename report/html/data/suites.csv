@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_jenkins.TestJenkins.test_login1","4",""
+"passed","scripts.test_jenkins.TestJenkins.test_login2","1",""

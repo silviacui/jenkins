@@ -1,0 +1,4 @@
+[
+  "scripts/test_jenkins.py::TestJenkins::()::test_login1",
+  "scripts/test_jenkins.py::TestJenkins::()::test_login2"
+]

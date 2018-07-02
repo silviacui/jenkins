@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts.test_jenkins",
+    "children" : [ {
+      "name" : "TestJenkins.test_login1",
+      "uid" : "da83180a6e7cbb22",
+      "parentUid" : "e75fa132844168e6db2f854582133fde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1530453229579,
+        "stop" : 1530453229583,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestJenkins.test_login2",
+      "uid" : "fefb80d1e647a7de",
+      "parentUid" : "e75fa132844168e6db2f854582133fde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1530453229584,
+        "stop" : 1530453229585,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e75fa132844168e6db2f854582133fde"
+  } ]
+}

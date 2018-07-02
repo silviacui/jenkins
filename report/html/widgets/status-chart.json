@@ -1,0 +1,21 @@
+[ {
+  "uid" : "da83180a6e7cbb22",
+  "name" : "TestJenkins.test_login1",
+  "time" : {
+    "start" : 1530453229579,
+    "stop" : 1530453229583,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fefb80d1e647a7de",
+  "name" : "TestJenkins.test_login2",
+  "time" : {
+    "start" : 1530453229584,
+    "stop" : 1530453229585,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
